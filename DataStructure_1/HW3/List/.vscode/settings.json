@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\Scobra\\OneDrive\\Programming\\C\\Data Structure\\HW3\\List",
+            "binaryPath": "c:\\Users\\Scobra\\OneDrive\\Programming\\C\\Data Structure\\HW3\\List\\test",
+            "binaryArgs": []
+        }
+    ]
+}
